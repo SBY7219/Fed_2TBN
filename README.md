@@ -1,4 +1,4 @@
-# **FDBN_Learning**  
+# **F2TBN**  
 
 This repository contains the packages and scripts used in A Decentralized Approach for Two-Timeslice Bayesian Network and Personalized Optimization from Time-Dependent Data
 
